@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dova/source/repos/SortrCompare/metrics/metrics.cpp
+metrics.h
+C:/Users/Dova/source/repos/SortrCompare/metrics/metrics.h
+
+C:/Users/Dova/source/repos/SortrCompare/metrics/metrics.h
+sortings/sortings.h
+C:/Users/Dova/source/repos/SortrCompare/metrics/sortings/sortings.h
+random
+-
+chrono
+-
+iostream
+-
+fstream
+-
+string
+-
+
+C:/Users/Dova/source/repos/SortrCompare/metrics/sortings/sortings.h
+vector
+-
+
